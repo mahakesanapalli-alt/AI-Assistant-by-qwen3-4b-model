@@ -1,16 +1,39 @@
-# React + Vite
+ # SkillBridge AI Assistant 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered assistant built using React, Python, FastAPI, and the Qwen3:4B model through Ollama.
 
-Currently, two official plugins are available:
+ # About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+SkillBridge AI is an early-stage AI assistant project developed by a Diploma student to explore artificial intelligence and full-stack development.
 
-## React Compiler
+The project aims to help students understand technical topics, explore project ideas, create development roadmaps, and receive step-by-step guidance.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Technologies Used
 
-## Expanding the ESLint configuration
+  Frontend: React, JavaScript, CSS, Vite
+  Backend: Python, FastAPI
+  AI Model: Qwen3:4B
+  Model Runtime: Ollama
+  API Testing:Swagger UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Current Features
+
+* AI-powered chat interface
+* Backend API built with FastAPI
+* Integration with the Qwen3:4B model through Ollama
+* API testing through Swagger UI
+* Separate frontend and backend technologies
+
+# Project Goal
+
+My goal is to continuously improve this assistant, strengthen my AI and full-stack development skills, and build useful tools that support students in learning and project development.
+
+This project is currently in its early stage, and more features will be added as development progresses.
+
+# Developer
+
+Built as a learning project by a Diploma student exploring AI and full-stack development.
+
+# Note
+
+To run the complete application, you need Python, Node.js, the required dependencies, and Ollama with the Qwen3:4B model installed and configured.
